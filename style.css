@@ -16,23 +16,24 @@ figure {
     background-color: white;
     width: calc(320 / 15 * 1em);
     border-radius: 1em;
+    box-sizing: border-box;
+    padding: 1em;
 }
 
 figure img{
-    width: 90%;
+    width: 100%;
     border-radius: 0.5em;
-    display: block;
-    margin: 1em;
 }
 
 figcaption {
-    margin: 2em;
+    margin: 1em;
     text-align: center;
 }
 
 .slogan {
     color: var(--Dark-blue);
     font-size: 1.5em;
+    margin-block: 1em;
 }
 
  /* Attribution */
