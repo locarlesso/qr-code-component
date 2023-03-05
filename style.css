@@ -9,7 +9,6 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--Light-gray);
     font-size: calc(15 / 16 * 1rem);
-    color: var(--Grayish-blue);
 }
 
 figure {
@@ -18,6 +17,7 @@ figure {
     border-radius: 1em;
     box-sizing: border-box;
     padding: 1em;
+    color: var(--Grayish-blue);
 }
 
 figure img{
