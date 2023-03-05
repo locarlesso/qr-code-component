@@ -5,7 +5,7 @@
 }
 
 body {
-    margin: 0px; /* reset */
+    margin: 0px;
     font-family: 'Outfit', sans-serif;
     background-color: var(--Light-gray);
     font-size: calc(15 / 16 * 1rem);
@@ -37,7 +37,8 @@ figcaption {
 }
 
  /* Attribution */
-p[role="doc-credit"] {
+.attribution {
+    margin-block: 1em;
     text-align: center;
 }
 
