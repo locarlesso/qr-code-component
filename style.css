@@ -40,6 +40,7 @@ figcaption {
 
  /* Attribution */
 .attribution {
+    display: block;
     margin-block: 1em;
     text-align: center;
 }
@@ -54,3 +55,12 @@ body {
     display: grid;
     place-content: center;
 }
+
+.sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    }
