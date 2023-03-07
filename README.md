@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/accessible-qr-code-card-with-Rl8dsBQjN9](https://www.frontendmentor.io/solutions/accessible-qr-code-card-with-Rl8dsBQjN9)
 - Live Site URL: [https://locarlesso.github.io/qr-code-component/](https://locarlesso.github.io/qr-code-component/)
 
 ## My process
