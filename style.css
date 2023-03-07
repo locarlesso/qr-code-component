@@ -12,6 +12,7 @@ body {
 }
 
 figure {
+    margin: 0px;
     background-color: white;
     width: calc(320 / 15 * 1em);
     border-radius: 1em;
@@ -52,8 +53,4 @@ body {
     min-height: 100vh;
     display: grid;
     place-content: center;
-}
-
-figure {
-    margin: 0px;
 }
