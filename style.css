@@ -54,3 +54,7 @@ body {
     display: grid;
     place-content: center;
 }
+
+.attribution {
+    height: 0px;
+}
