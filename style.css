@@ -20,6 +20,7 @@ figure {
     padding: 1em;
     color: var(--Grayish-blue);
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.05);
+    margin-inline: auto;
 }
 
 figure img{
@@ -38,7 +39,7 @@ figcaption {
 .slogan {
     color: var(--Dark-blue);
     font-size: 1.5em;
-    margin-block: 1em;
+    margin-block: 0.83em;
 }
 
  /* Attribution */
@@ -52,16 +53,14 @@ figcaption {
     color: hsl(228, 45%, 44%);
 }
 
-/* center content */
+/* center main content vertically */
 body {
-    min-height: 100vh;
+    height: 100vh;
+    height: 100dvh;
     display: grid;
-    place-content: center;
+    grid-template-rows: 1fr auto 1fr;
 }
-
-.blank-header {
-    height: calc(41 / 16 * 1rem);
-}
+/* --------------------- */
 
 .sr-only {
     position:absolute;
