@@ -74,6 +74,6 @@ Although... there's a hack to make the grid version to work in the same way, usi
 
 ## Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/accessible-qr-code-card-with-Rl8dsBQjN9
+- Solution URL: https://www.frontendmentor.io/solutions/a-valid-case-for-using-elements-as-spacers-h5J7XMrZzS
 
 - Live Site URL: https://locarlesso.github.io/qr-code-component
